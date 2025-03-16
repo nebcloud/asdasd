@@ -1,0 +1,16 @@
+filename = 'emi-1.1.20+1.21.1+neoforge.jar'
+name = 'EMI'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '074ed62c933af47f31949d0317799df8e2a6dd56a18f75bc70944925e0baade8c7dc0b2d2c796753c59422ad5f56d0edd7f1bba0793ff85ed30542810fed8d2c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fRiHVvU7/versions/UwFjsK2A/emi-1.1.20%2B1.21.1%2Bneoforge.jar'
+
+[update.modrinth]
+mod-id = 'fRiHVvU7'
+version = 'UwFjsK2A'

@@ -1,6 +1,0 @@
-{
-    "type": "neoforge:none",
-    "biomes": "#minecraft:is_overworld",
-    "features": "immersiveengineering:bauxite",
-    "step": "underground_ores"
-}

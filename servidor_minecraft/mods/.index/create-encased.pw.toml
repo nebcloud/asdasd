@@ -1,0 +1,16 @@
+filename = 'Create Encased-1.21.1-1.7.0-fix1.jar'
+name = 'Create Encased'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1e91e0febff84c8aa94e1a910eb9177b18759bb7837a8d89dd0ec725c8f20928b477829f3d8ce3e600a8ac64c48cccce6e153b34d16b7928daefa76cb388b95c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hSSqdyU1/versions/QExImWNo/Create Encased-1.21.1-1.7.0-fix1.jar'
+
+[update.modrinth]
+mod-id = 'hSSqdyU1'
+version = 'QExImWNo'
