@@ -1060,6 +1060,7 @@
       "cooked_chicken": "2025-03-16 23:50:59 +0000",
       "rotten_flesh": "2025-03-17 00:02:57 +0000",
       "cooked_mutton": "2025-03-17 00:54:15 +0000",
+      "glow_berries": "2025-03-17 20:16:37 +0000",
       "cooked_cod": "2025-03-17 04:00:30 +0000",
       "sweet_berries": "2025-03-17 00:04:38 +0000",
       "cooked_salmon": "2025-03-17 00:36:30 +0000"
@@ -5878,6 +5879,30 @@
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-03-17 17:12:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_smoking": {
+    "criteria": {
+      "cooked_cod_slice": "2025-03-17 20:16:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cod_roll": {
+    "criteria": {
+      "has_cod_slice": "2025-03-17 20:16:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice": {
+    "criteria": {
+      "cooked_cod_slice": "2025-03-17 20:16:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_cod_slice": "2025-03-17 20:16:57 +0000"
     },
     "done": true
   },
