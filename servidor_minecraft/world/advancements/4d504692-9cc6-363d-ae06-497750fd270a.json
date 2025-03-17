@@ -1060,6 +1060,7 @@
       "cooked_chicken": "2025-03-16 23:50:59 +0000",
       "rotten_flesh": "2025-03-17 00:02:57 +0000",
       "cooked_mutton": "2025-03-17 00:54:15 +0000",
+      "cooked_cod": "2025-03-17 04:00:30 +0000",
       "sweet_berries": "2025-03-17 00:04:38 +0000",
       "cooked_salmon": "2025-03-17 00:36:30 +0000"
     },
@@ -5360,6 +5361,24 @@
   "create_d2d:recipes/building_blocks/cut_stone_slab_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2025-03-17 02:25:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-17 03:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-17 03:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-17 03:59:16 +0000"
     },
     "done": true
   },

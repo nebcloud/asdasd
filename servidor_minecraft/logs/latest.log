@@ -549,3 +549,5 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [17Mar2025 03:49:04.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h8neb joined the game
 [17Mar2025 03:51:10.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: h8neb lost connection: Disconnected
 [17Mar2025 03:51:10.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h8neb left the game
+[17Mar2025 03:56:15.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: h8neb[/127.44.184.141:33791] logged in with entity id 561 at (303.61106485395993, 57.0, -84.81420261294373)
+[17Mar2025 03:56:15.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h8neb joined the game
