@@ -8301,3 +8301,5 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [17Mar2025 04:11:29.527] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [17Mar2025 04:14:03.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h8neb has made the advancement [Hunt and Gather]
 [17Mar2025 04:14:11.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h8neb has reached the goal [Dinner's Served!]
+[17Mar2025 04:16:29.517] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Mar2025 04:21:29.521] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
