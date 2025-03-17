@@ -5962,6 +5962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-03-17 21:19:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-17 20:33:15 +0000"
@@ -6256,6 +6262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-03-17 21:19:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-03-17 20:41:10 +0000"
@@ -6313,6 +6325,12 @@
   "handcrafted:recipes/misc/light_gray_sheet": {
     "criteria": {
       "has_light_gray_sheet": "2025-03-17 20:25:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-03-17 21:22:22 +0000"
     },
     "done": true
   },
@@ -6553,6 +6571,12 @@
   "another_furniture:recipes/light_gray_curtain": {
     "criteria": {
       "has_wool": "2025-03-17 20:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-03-17 21:24:38 +0000"
     },
     "done": true
   },
