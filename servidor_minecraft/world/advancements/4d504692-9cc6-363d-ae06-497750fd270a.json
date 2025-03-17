@@ -5419,6 +5419,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-03-17 04:38:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-03-17 04:18:34 +0000"
@@ -5668,6 +5674,12 @@
   "create_d2d:recipes/building_blocks/crafting/fan_catalyst/smoking_sail": {
     "criteria": {
       "has_campfire": "2025-03-17 04:15:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-03-17 04:37:48 +0000"
     },
     "done": true
   },
