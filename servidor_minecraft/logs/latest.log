@@ -624,3 +624,10 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [17Mar2025 21:28:19.151] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/28341, l='ServerLevel[world]', x=40.00, y=31.00, z=67.00] as it would cause deadlock
 [17Mar2025 21:28:19.153] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/28343, l='ServerLevel[world]', x=38.00, y=31.00, z=72.00] as it would cause deadlock
 [17Mar2025 21:29:41.221] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/28913, l='ServerLevel[world]', x=232.00, y=31.00, z=-137.00] as it would cause deadlock
+[17Mar2025 21:32:10.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h8neb has made the advancement [Suit Up]
+[17Mar2025 21:34:35.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: h8neb lost connection: Disconnected
+[17Mar2025 21:34:35.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h8neb left the game
+[17Mar2025 21:39:15.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: h8neb[/127.44.184.141:39691] logged in with entity id 29912 at (299.3060259861923, 57.0, -84.55879460346121)
+[17Mar2025 21:39:15.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h8neb joined the game
+[17Mar2025 21:39:55.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: h8neb lost connection: Disconnected
+[17Mar2025 21:39:55.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h8neb left the game
