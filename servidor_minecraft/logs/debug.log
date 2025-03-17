@@ -8409,3 +8409,10 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [17Mar2025 20:41:27.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of h8neb) moved too quickly! -10.48586813118095,0.0,2.5829375206002965
 [17Mar2025 20:45:33.183] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [17Mar2025 20:48:23.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h8neb has reached the goal [Plant Food]
+[17Mar2025 20:50:33.171] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Mar2025 20:55:33.179] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Mar2025 21:00:33.175] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Mar2025 21:05:29.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: h8neb moved wrongly!
+[17Mar2025 21:05:33.175] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Mar2025 21:10:33.185] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Mar2025 21:15:33.168] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
