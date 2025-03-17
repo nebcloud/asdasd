@@ -553,3 +553,16 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [17Mar2025 03:56:15.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h8neb joined the game
 [17Mar2025 04:14:03.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h8neb has made the advancement [Hunt and Gather]
 [17Mar2025 04:14:11.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h8neb has reached the goal [Dinner's Served!]
+[17Mar2025 04:46:58.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: h8neb lost connection: Disconnected
+[17Mar2025 04:46:58.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h8neb left the game
+[17Mar2025 04:47:02.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Mar2025 04:47:02.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Mar2025 04:47:02.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Mar2025 04:47:02.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Mar2025 04:47:03.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Mar2025 04:47:03.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Mar2025 04:47:03.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Mar2025 04:47:03.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Mar2025 04:47:03.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Mar2025 04:47:03.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Mar2025 04:47:03.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
