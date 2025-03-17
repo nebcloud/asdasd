@@ -8287,3 +8287,5 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [17Mar2025 16:33:07.722] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.neoforge.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [17Mar2025 16:33:07.724] [Server thread/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinPiglinAi from mod curios->@Inject::curios$isWearingGold(Lnet/minecraft/world/entity/LivingEntity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
 [17Mar2025 16:33:07.724] [Server thread/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinPiglinAi from mod curios->@Inject::curios$isWearingGold(Lnet/minecraft/world/entity/LivingEntity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[17Mar2025 16:35:46.882] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Mar2025 16:40:46.824] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
