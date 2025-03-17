@@ -8438,3 +8438,23 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [17Mar2025 21:39:15.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h8neb joined the game
 [17Mar2025 21:39:55.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: h8neb lost connection: Disconnected
 [17Mar2025 21:39:55.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h8neb left the game
+[17Mar2025 21:40:37.846] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Mar2025 21:42:53.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Mar2025 21:42:54.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Mar2025 21:42:54.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Mar2025 21:42:54.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Mar2025 21:42:54.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Mar2025 21:42:54.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Mar2025 21:42:54.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Mar2025 21:42:54.239] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Mar2025 21:42:54.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Mar2025 21:42:54.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Mar2025 21:42:54.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Mar2025 21:42:54.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Mar2025 21:42:54.248] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[17Mar2025 21:42:54.248] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[17Mar2025 21:42:54.359] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[17Mar2025 21:42:54.359] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[17Mar2025 21:42:54.367] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[17Mar2025 21:42:54.367] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[17Mar2025 21:42:54.371] [Server thread/DEBUG] [net.neoforged.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
